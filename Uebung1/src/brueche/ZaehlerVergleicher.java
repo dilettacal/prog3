@@ -1,0 +1,26 @@
+package brueche;
+
+import java.util.Comparator;
+
+/**
+ * @author Diletta Calussi
+ * Matrikel-Nr.: 559842
+ * 08.10.2017
+ * Klasse ZaehlerVergleicher implementiert Comparator<br>
+ * Die Klasse vergleicht zwei Bruechen anhand ihrer Zaehler.
+ *
+ */
+public class ZaehlerVergleicher implements Comparator<Bruch> {
+
+	/* (non-Javadoc)
+	 * @see java.util.Comparator#compare(java.lang.Object, java.lang.Object)
+	 */
+	@Override
+	public int compare(Bruch a, Bruch b) {
+		a.kuerzen();
+		b.kuerzen();
+		return a.getZaehler() - b.getZaehler();
+	}
+	
+
+}
