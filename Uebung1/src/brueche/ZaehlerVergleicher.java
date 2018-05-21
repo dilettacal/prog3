@@ -4,8 +4,6 @@ import java.util.Comparator;
 
 /**
  * @author Diletta Calussi
- * Matrikel-Nr.: 559842
- * 08.10.2017
  * Klasse ZaehlerVergleicher implementiert Comparator<br>
  * Die Klasse vergleicht zwei Bruechen anhand ihrer Zaehler.
  *
