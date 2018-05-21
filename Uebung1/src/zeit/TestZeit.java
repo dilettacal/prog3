@@ -1,11 +1,7 @@
 package zeit;
-/**
- * 
- */
 
 /**
- * @author Diletta Calussi
- * Matrikel-Nr.: 559842
+ * @author Diletta Cal
  * 08.10.2017
  * @version
  *
