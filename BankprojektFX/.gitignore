@@ -40,7 +40,10 @@ local.properties
 
 ### Maven ###
 target/
-
+src/main/java/bankprojekt/verarbeitung/mockito
+src/main/java/bankprojekt/verwaltung/mockito
+src/main/java/bankprojekt/server
+src/main/java/bankprojekt/Daten.java
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup

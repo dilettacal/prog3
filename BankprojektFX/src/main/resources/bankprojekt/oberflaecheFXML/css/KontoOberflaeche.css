@@ -1,0 +1,34 @@
+.root {
+  -fx-padding: 10px;
+  -fx-alignment: center;
+}
+
+.ueberschrift {
+  -fx-font-family: sans-serif;
+  -fx-font-size: 25pt;
+  -fx-text-alignment: center;
+}
+
+.grid-pane {
+  -fx-vgap: 10px;
+  -fx-hgap: 10px;
+  -fx-alignment: center;
+  -fx-padding: 20;
+}
+
+.meldung {
+  -fx-fill: red;
+  -fx-font-size: 15pt;
+  -fx-font-family: sans-serif;
+}
+
+.footer {
+  -fx-alignment: center;
+  -fx-spacing: 10px;
+}
+
+.standard{
+	-fx-font-family: sans-serif;
+	-fx-font-size: 15pt;
+	
+}

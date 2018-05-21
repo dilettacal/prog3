@@ -1,0 +1,476 @@
+++++++++++++ Exception Logger +++++++++++++++
+Jan 18 2018  10:46 AM
+System: Windows 8.1
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+java.lang.NullPointerException: Ich bin eine NullPointerException!!!
+BankWithLoggingApp.main 27: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+java.lang.IllegalArgumentException: Ungültiges Parameter!
+BankWithLoggingApp.main 30: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+java.lang.Throwable: Alles kann passieren
+BankWithLoggingApp.main 33: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+java.lang.IllegalArgumentException: Bankleitzahl darf nicht negativ sein!
+bankprojekt.verwaltung.Bank.<init> 71: Bank.java
+BankWithLoggingApp.main 39: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+java.lang.NullPointerException: Bitte uebergeben Sie einen echten Kunden!
+bankprojekt.verwaltung.Bank.sparbuchErstellen 130: Bank.java
+BankWithLoggingApp.main 45: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 1000 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 203: Bank.java
+BankWithLoggingApp.main 49: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 1000 existiert nicht.
+bankprojekt.verwaltung.Bank.kontoLoeschen 221: Bank.java
+BankWithLoggingApp.main 55: BankWithLoggingApp.java
+
+
+-------------------------------
+Jan 18 2018  10:46 AM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 1000 existiert nicht.
+bankprojekt.verwaltung.Bank.kontoLoeschen 221: Bank.java
+BankWithLoggingApp.main 55: BankWithLoggingApp.java
+
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  06:46 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  06:47 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  06:47 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  06:48 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:11 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:12 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:13 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:15 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:19 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:22 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:24 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:26 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:26 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:27 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:28 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:29 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:30 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:31 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  07:45 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Jan 24 2018  09:18 PM
+System: Windows 8.1
+++++++++++++ Exception Logger +++++++++++++++
+Apr 29 2018  05:20 PM
+System: Windows 8.1
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 0 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 204: Bank.java
+bankprojekt.verarbeitung.BankTest.testGeldEinzahlenNormalfall 105: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 10 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 204: Bank.java
+bankprojekt.verarbeitung.BankTest.testGetKontoStandException 150: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 0 existiert nicht.
+bankprojekt.verwaltung.Bank.kontoLoeschen 222: Bank.java
+bankprojekt.verarbeitung.BankTest.testKontoLoeschen 136: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 0 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 204: Bank.java
+bankprojekt.verarbeitung.BankTest.testGeldAbhebenNormalfall 117: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+java.lang.IllegalArgumentException: Bankleitzahl darf nicht negativ sein!
+bankprojekt.verwaltung.Bank.<init> 72: Bank.java
+bankprojekt.verarbeitung.BankTest.testBankKonstruktorException 171: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 0 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 204: Bank.java
+bankprojekt.verarbeitung.BankTest.testGetKontostand 143: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 123456 existiert nicht.
+bankprojekt.verwaltung.Bank.geldEinzahlen 204: Bank.java
+bankprojekt.verarbeitung.BankTest.testGeldEinzahlenException 112: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.ExpectException.evaluate 19: ExpectException.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+bankprojekt.verarbeitung.KontonummerNichtVorhandenException: Das Konto mit der Kontonummer 12367 existiert nicht.
+bankprojekt.verwaltung.Bank.geldAbheben 187: Bank.java
+bankprojekt.verarbeitung.BankTest.testGeldAbhebenException 126: BankTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.internal.runners.statements.ExpectException.evaluate 19: ExpectException.java
+org.junit.internal.runners.statements.RunBefores.evaluate 26: RunBefores.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
+
+-------------------------------
+Apr 29 2018  05:20 PM
+Exception-Details: 
+java.io.NotSerializableException: bankprojekt.verwaltung.logging.ExceptionLogger
+java.io.ObjectOutputStream.writeObject0 1184: ObjectOutputStream.java
+java.io.ObjectOutputStream.defaultWriteFields 1548: ObjectOutputStream.java
+java.io.ObjectOutputStream.writeSerialData 1509: ObjectOutputStream.java
+java.io.ObjectOutputStream.writeOrdinaryObject 1432: ObjectOutputStream.java
+java.io.ObjectOutputStream.writeObject0 1178: ObjectOutputStream.java
+java.io.ObjectOutputStream.writeObject 348: ObjectOutputStream.java
+bankprojekt.verwaltung.Bank.clone 335: Bank.java
+bankprojekt.verarbeitung.KopieTest.CloneTest 27: KopieTest.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.junit.runners.model.FrameworkMethod$1.runReflectiveCall 50: FrameworkMethod.java
+org.junit.internal.runners.model.ReflectiveCallable.run 12: ReflectiveCallable.java
+org.junit.runners.model.FrameworkMethod.invokeExplosively 47: FrameworkMethod.java
+org.junit.internal.runners.statements.InvokeMethod.evaluate 17: InvokeMethod.java
+org.junit.runners.ParentRunner.runLeaf 325: ParentRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 78: BlockJUnit4ClassRunner.java
+org.junit.runners.BlockJUnit4ClassRunner.runChild 57: BlockJUnit4ClassRunner.java
+org.junit.runners.ParentRunner$3.run 290: ParentRunner.java
+org.junit.runners.ParentRunner$1.schedule 71: ParentRunner.java
+org.junit.runners.ParentRunner.runChildren 288: ParentRunner.java
+org.junit.runners.ParentRunner.access$000 58: ParentRunner.java
+org.junit.runners.ParentRunner$2.evaluate 268: ParentRunner.java
+org.junit.runners.ParentRunner.run 363: ParentRunner.java
+org.apache.maven.surefire.junit4.JUnit4Provider.execute 252: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet 141: JUnit4Provider.java
+org.apache.maven.surefire.junit4.JUnit4Provider.invoke 112: JUnit4Provider.java
+sun.reflect.NativeMethodAccessorImpl.invoke0 -2: NativeMethodAccessorImpl.java
+sun.reflect.NativeMethodAccessorImpl.invoke 62: NativeMethodAccessorImpl.java
+sun.reflect.DelegatingMethodAccessorImpl.invoke 43: DelegatingMethodAccessorImpl.java
+java.lang.reflect.Method.invoke 498: Method.java
+org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray 189: ReflectionUtils.java
+org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke 165: ProviderFactory.java
+org.apache.maven.surefire.booter.ProviderFactory.invokeProvider 85: ProviderFactory.java
+org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess 115: ForkedBooter.java
+org.apache.maven.surefire.booter.ForkedBooter.main 75: ForkedBooter.java
+
