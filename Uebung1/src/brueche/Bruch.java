@@ -3,7 +3,7 @@ package brueche;
 import java.math.BigInteger;
 /**
  * 
- * @author Diletta Calussi
+ * @author Diletta Cal
  * Klasse Bruch zur Verwaltung von Bruch-Objekten.
  *
  */
