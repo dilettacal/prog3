@@ -5,8 +5,7 @@ package ratespielen;
 import java.lang.Math;
 import java.util.Scanner;
 /**
- * @author Diletta Calussi
- * Matrikel-Nr.: 559842
+ * @author Diletta Cal
  * 05.10.2017
  * @version
  *
