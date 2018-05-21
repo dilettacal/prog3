@@ -3,7 +3,7 @@ package brueche;
 import java.util.Comparator;
 
 /**
- * @author Diletta Calussi
+ * @author Diletta Cal
  * Klasse ZaehlerVergleicher implementiert Comparator<br>
  * Die Klasse vergleicht zwei Bruechen anhand ihrer Zaehler.
  *
