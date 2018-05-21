@@ -4,8 +4,7 @@ import org.junit.Test;
 
 
 /**
- * @author Diletta Calussi
- * Matrikel-Nr.: 559842
+ * @author Diletta Cal
  * 05.10.2017
  * JUnit Tests fuer Klasse Bruch.java
  *
