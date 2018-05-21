@@ -4,8 +4,6 @@ import java.math.BigInteger;
 /**
  * 
  * @author Diletta Calussi
- * Matrikel-Nr.: 559842
- * 5.10.2017
  * Klasse Bruch zur Verwaltung von Bruch-Objekten.
  *
  */
